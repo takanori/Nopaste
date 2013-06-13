@@ -1,0 +1,367 @@
+[Tue Jun  4 22:37:36 2013] [info] Listening at "http://*:3000".
+[Tue Jun  4 22:37:37 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jun  4 22:37:37 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:37:37 2013] [debug] GET "/logout".
+[Tue Jun  4 22:37:37 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jun  4 22:37:37 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jun  4 22:37:37 2013] [debug] Rendering inline template.
+[Tue Jun  4 22:37:37 2013] [debug] Rendering inline template.
+[Tue Jun  4 22:37:37 2013] [debug] 404 Not Found (0.016926s, 59.081/s).
+[Tue Jun  4 22:37:37 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:37:37 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:37:37 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:37:37 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:37:40 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:37:40 2013] [debug] GET "/".
+[Tue Jun  4 22:37:40 2013] [debug] Routing to controller "Nopaste::Web::Example" and action "welcome".
+[Tue Jun  4 22:37:40 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Jun  4 22:37:40 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jun  4 22:37:40 2013] [debug] 200 OK (0.006019s, 166.141/s).
+[Tue Jun  4 22:39:50 2013] [info] Listening at "http://*:3000".
+[Tue Jun  4 22:39:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jun  4 22:39:51 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:39:51 2013] [debug] GET "/".
+[Tue Jun  4 22:39:51 2013] [debug] Routing to controller "Nopaste::Web::Example" and action "welcome".
+[Tue Jun  4 22:39:51 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Jun  4 22:39:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Jun  4 22:39:51 2013] [debug] 200 OK (0.007484s, 133.618/s).
+[Tue Jun  4 22:39:52 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:39:52 2013] [debug] GET "/".
+[Tue Jun  4 22:39:52 2013] [debug] Routing to controller "Nopaste::Web::Example" and action "welcome".
+[Tue Jun  4 22:39:52 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Jun  4 22:39:52 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Jun  4 22:39:52 2013] [debug] 200 OK (0.001675s, 597.015/s).
+[Tue Jun  4 22:39:54 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:39:54 2013] [debug] GET "/".
+[Tue Jun  4 22:39:54 2013] [debug] Routing to controller "Nopaste::Web::Example" and action "welcome".
+[Tue Jun  4 22:39:54 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Jun  4 22:39:54 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Jun  4 22:39:54 2013] [debug] 200 OK (0.001632s, 612.745/s).
+[Tue Jun  4 22:40:06 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:40:08 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:40:08 2013] [debug] GET "/".
+[Tue Jun  4 22:40:08 2013] [debug] Routing to controller "Nopaste::Web::Example" and action "welcome".
+[Tue Jun  4 22:40:08 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Jun  4 22:40:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Jun  4 22:40:08 2013] [debug] 200 OK (0.001641s, 609.385/s).
+[Tue Jun  4 22:47:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Jun  4 22:47:48 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:47:48 2013] [debug] GET "/".
+[Tue Jun  4 22:47:48 2013] [debug] Controller "Nopaste::Web::Root" does not exist.
+[Tue Jun  4 22:47:48 2013] [debug] Template "root/index.html.ep" not found.
+[Tue Jun  4 22:47:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Jun  4 22:47:48 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Jun  4 22:47:48 2013] [debug] Rendering inline template.
+[Tue Jun  4 22:47:48 2013] [debug] Rendering inline template.
+[Tue Jun  4 22:47:48 2013] [debug] 404 Not Found (0.069302s, 14.430/s).
+[Tue Jun  4 22:47:48 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:47:48 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:47:48 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:47:48 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Tue Jun  4 22:47:48 2013] [debug] Bad signed cookie "mojolicious", possible hacking attempt.
+[Wed Jun  5 01:42:37 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Jun  5 01:42:37 2013] [debug] GET "/".
+[Wed Jun  5 01:42:39 2013] [error] syntax error at /Users/mbp20120411/Wepra/Mojo/nopaste_web/script/../lib/Nopaste/Web/Root.pm line 23, near "(
+	### TODO !
+}"
+Compilation failed in require at (eval 230) line 1.
+
+[Wed Jun  5 01:42:39 2013] [debug] Template "exception.development.html.ep" not found.
+[Wed Jun  5 01:42:39 2013] [debug] Template "exception.html.ep" not found.
+[Wed Jun  5 01:42:39 2013] [debug] Rendering inline template.
+[Wed Jun  5 01:42:39 2013] [debug] Rendering inline template.
+[Wed Jun  5 01:42:39 2013] [debug] 500 Internal Server Error (1.964472s, 0.509/s).
+[Thu Jun 13 14:42:45 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 14:42:54 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 14:42:54 2013] [debug] GET "/".
+[Thu Jun 13 14:42:55 2013] [error] syntax error at /Users/mbp20120411/Wepra/Mojo/nopaste_web/script/../lib/Nopaste/Web/Root.pm line 23, near "(
+	### TODO !
+}"
+Compilation failed in require at (eval 230) line 1.
+
+[Thu Jun 13 14:42:55 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 14:42:55 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 14:42:55 2013] [debug] Rendering inline template.
+[Thu Jun 13 14:42:55 2013] [debug] Rendering inline template.
+[Thu Jun 13 14:42:55 2013] [debug] 500 Internal Server Error (0.812872s, 1.230/s).
+[Thu Jun 13 14:44:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 14:44:14 2013] [debug] GET "/".
+[Thu Jun 13 14:44:14 2013] [error] syntax error at /Users/mbp20120411/Wepra/Mojo/nopaste_web/script/../lib/Nopaste/Web/Root.pm line 23, near "(
+	### TODO !
+}"
+Compilation failed in require at (eval 230) line 1.
+
+[Thu Jun 13 14:44:14 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 14:44:14 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 14:44:14 2013] [debug] Rendering inline template.
+[Thu Jun 13 14:44:14 2013] [debug] Rendering inline template.
+[Thu Jun 13 14:44:14 2013] [debug] 500 Internal Server Error (0.041094s, 24.334/s).
+[Thu Jun 13 14:47:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 14:47:26 2013] [debug] GET "/".
+[Thu Jun 13 14:47:26 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:47:26 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 14:47:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 14:47:26 2013] [debug] 200 OK (0.064232s, 15.569/s).
+[Thu Jun 13 14:47:33 2013] [debug] POST "/".
+[Thu Jun 13 14:47:33 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 14:47:33 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 14:47:33 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 14:47:34 2013] [debug] POST "/".
+[Thu Jun 13 14:47:34 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 14:47:34 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 14:47:34 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 14:47:58 2013] [debug] GET "/".
+[Thu Jun 13 14:47:58 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:47:58 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:47:58 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:47:58 2013] [debug] 200 OK (0.001491s, 670.691/s).
+[Thu Jun 13 14:47:59 2013] [debug] GET "/".
+[Thu Jun 13 14:47:59 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:47:59 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:47:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:47:59 2013] [debug] 200 OK (0.000934s, 1070.664/s).
+[Thu Jun 13 14:48:01 2013] [debug] POST "/".
+[Thu Jun 13 14:48:01 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 14:48:01 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 14:48:01 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 14:48:04 2013] [debug] POST "/".
+[Thu Jun 13 14:48:04 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 14:48:04 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 14:48:04 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 14:48:16 2013] [debug] GET "/".
+[Thu Jun 13 14:48:16 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:48:16 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:48:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:48:16 2013] [debug] 200 OK (0.000875s, 1142.857/s).
+[Thu Jun 13 14:48:18 2013] [debug] POST "/".
+[Thu Jun 13 14:48:18 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 14:48:18 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 14:48:18 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 14:48:20 2013] [debug] POST "/".
+[Thu Jun 13 14:48:20 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 14:48:20 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 14:48:20 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 14:48:35 2013] [debug] Inactivity timeout.
+[Thu Jun 13 14:48:38 2013] [debug] GET "/".
+[Thu Jun 13 14:48:38 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:48:38 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:48:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:48:38 2013] [debug] 200 OK (0.000927s, 1078.749/s).
+[Thu Jun 13 14:49:45 2013] [debug] GET "/".
+[Thu Jun 13 14:49:45 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:49:45 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:49:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:49:45 2013] [debug] 200 OK (0.000936s, 1068.376/s).
+[Thu Jun 13 14:49:46 2013] [debug] GET "/".
+[Thu Jun 13 14:49:46 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:49:46 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:49:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:49:46 2013] [debug] 200 OK (0.001130s, 884.956/s).
+[Thu Jun 13 14:49:55 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 14:49:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 14:49:57 2013] [debug] GET "/".
+[Thu Jun 13 14:49:57 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:49:57 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 14:49:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 14:49:57 2013] [debug] 200 OK (0.023369s, 42.792/s).
+[Thu Jun 13 14:51:04 2013] [debug] GET "/".
+[Thu Jun 13 14:51:04 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:51:04 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:51:04 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:51:04 2013] [debug] 200 OK (0.001214s, 823.723/s).
+[Thu Jun 13 14:51:22 2013] [debug] GET "/".
+[Thu Jun 13 14:51:22 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:51:22 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:51:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:51:22 2013] [debug] 200 OK (0.000853s, 1172.333/s).
+[Thu Jun 13 14:51:23 2013] [debug] GET "/".
+[Thu Jun 13 14:51:23 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:51:23 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:51:23 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:51:23 2013] [debug] 200 OK (0.000985s, 1015.228/s).
+[Thu Jun 13 14:51:25 2013] [debug] GET "/".
+[Thu Jun 13 14:51:25 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:51:25 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:51:25 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:51:25 2013] [debug] 200 OK (0.001250s, 800.000/s).
+[Thu Jun 13 14:51:30 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 14:51:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 14:51:31 2013] [debug] GET "/".
+[Thu Jun 13 14:51:31 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:51:31 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 14:51:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 14:51:31 2013] [debug] 200 OK (0.021472s, 46.572/s).
+[Thu Jun 13 14:51:43 2013] [debug] GET "/".
+[Thu Jun 13 14:51:43 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:51:43 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:51:43 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:51:43 2013] [debug] 200 OK (0.001199s, 834.028/s).
+[Thu Jun 13 14:59:10 2013] [debug] GET "/".
+[Thu Jun 13 14:59:10 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 14:59:10 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 14:59:10 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 14:59:10 2013] [debug] 200 OK (0.001302s, 768.049/s).
+[Thu Jun 13 14:59:13 2013] [debug] POST "/".
+[Thu Jun 13 14:59:13 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 14:59:13 2013] [debug] Template "test.html.ep" not found.
+[Thu Jun 13 14:59:13 2013] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jun 13 14:59:13 2013] [debug] Template "not_found.html.ep" not found.
+[Thu Jun 13 14:59:13 2013] [debug] Rendering inline template.
+[Thu Jun 13 14:59:13 2013] [debug] Rendering inline template.
+[Thu Jun 13 14:59:13 2013] [debug] 404 Not Found (0.017432s, 57.366/s).
+[Thu Jun 13 15:01:55 2013] [debug] GET "/".
+[Thu Jun 13 15:01:55 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:01:55 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:01:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:01:55 2013] [debug] 200 OK (0.000929s, 1076.426/s).
+[Thu Jun 13 15:01:58 2013] [debug] POST "/".
+[Thu Jun 13 15:01:58 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:01:58 2013] [debug] Template "test.html.ep" not found.
+[Thu Jun 13 15:01:58 2013] [debug] Template "not_found.development.html.ep" not found.
+[Thu Jun 13 15:01:58 2013] [debug] Template "not_found.html.ep" not found.
+[Thu Jun 13 15:01:58 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:01:58 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:01:58 2013] [debug] 404 Not Found (0.007190s, 139.082/s).
+[Thu Jun 13 15:02:05 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 15:02:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 15:02:07 2013] [debug] GET "/".
+[Thu Jun 13 15:02:07 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:02:07 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 15:02:07 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 15:02:07 2013] [debug] 200 OK (0.023388s, 42.757/s).
+[Thu Jun 13 15:02:08 2013] [debug] GET "/".
+[Thu Jun 13 15:02:08 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:02:08 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:02:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:02:08 2013] [debug] 200 OK (0.000933s, 1071.811/s).
+[Thu Jun 13 15:02:12 2013] [debug] POST "/".
+[Thu Jun 13 15:02:12 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:02:12 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 15:02:12 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 15:02:16 2013] [debug] POST "/".
+[Thu Jun 13 15:02:16 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:02:16 2013] [error] Can't locate object method "render_partial" via package "Nopaste::Web::Root" at /Users/mbp20120411/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/Mojolicious/Routes.pm line 172.
+
+[Thu Jun 13 15:02:16 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 15:02:16 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 15:02:16 2013] [debug] Rendering inline template.
+[Thu Jun 13 15:02:16 2013] [debug] Rendering inline template.
+[Thu Jun 13 15:02:16 2013] [debug] 500 Internal Server Error (0.028993s, 34.491/s).
+[Thu Jun 13 15:04:03 2013] [debug] POST "/".
+[Thu Jun 13 15:04:03 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:04:03 2013] [error] Can't locate object method "render_partial" via package "Nopaste::Web::Root" at /Users/mbp20120411/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/Mojolicious/Routes.pm line 172.
+
+[Thu Jun 13 15:04:03 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 15:04:03 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 15:04:03 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:04:03 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:04:03 2013] [debug] 500 Internal Server Error (0.008761s, 114.142/s).
+[Thu Jun 13 15:04:12 2013] [debug] POST "/".
+[Thu Jun 13 15:04:12 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:04:12 2013] [error] Can't locate object method "render_partial" via package "Nopaste::Web::Root" at /Users/mbp20120411/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/Mojolicious/Routes.pm line 172.
+
+[Thu Jun 13 15:04:12 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 15:04:12 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 15:04:12 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:04:12 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:04:12 2013] [debug] 500 Internal Server Error (0.010125s, 98.765/s).
+[Thu Jun 13 15:04:14 2013] [debug] GET "/".
+[Thu Jun 13 15:04:14 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:04:14 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:04:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:04:14 2013] [debug] 200 OK (0.000926s, 1079.914/s).
+[Thu Jun 13 15:04:16 2013] [debug] POST "/".
+[Thu Jun 13 15:04:16 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:04:16 2013] [error] Can't locate object method "render_partial" via package "Nopaste::Web::Root" at /Users/mbp20120411/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/Mojolicious/Routes.pm line 172.
+
+[Thu Jun 13 15:04:16 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 15:04:16 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 15:04:16 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:04:16 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:04:16 2013] [debug] 500 Internal Server Error (0.011659s, 85.771/s).
+[Thu Jun 13 15:06:09 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 15:06:12 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 15:06:12 2013] [debug] POST "/".
+[Thu Jun 13 15:06:12 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:06:12 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 15:06:12 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 15:06:12 2013] [error] Can't locate object method "render_text" via package "Nopaste::Web::Root" at /Users/mbp20120411/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/Mojolicious/Routes.pm line 172.
+
+[Thu Jun 13 15:06:12 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 15:06:12 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 15:06:12 2013] [debug] Rendering inline template.
+[Thu Jun 13 15:06:12 2013] [debug] Rendering inline template.
+[Thu Jun 13 15:06:12 2013] [debug] 500 Internal Server Error (0.094429s, 10.590/s).
+[Thu Jun 13 15:09:14 2013] [debug] POST "/".
+[Thu Jun 13 15:09:14 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:09:14 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:09:14 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:09:14 2013] [error] Can't locate object method "render_text" via package "Nopaste::Web::Root" at /Users/mbp20120411/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/Mojolicious/Routes.pm line 172.
+
+[Thu Jun 13 15:09:14 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 15:09:14 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 15:09:14 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:09:14 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:09:14 2013] [debug] 500 Internal Server Error (0.050532s, 19.789/s).
+[Thu Jun 13 15:09:17 2013] [debug] POST "/".
+[Thu Jun 13 15:09:17 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:09:17 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:09:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:09:17 2013] [error] Can't locate object method "render_text" via package "Nopaste::Web::Root" at /Users/mbp20120411/perl5/perlbrew/perls/perl-5.16.0/lib/site_perl/5.16.0/Mojolicious/Routes.pm line 172.
+
+[Thu Jun 13 15:09:17 2013] [debug] Template "exception.development.html.ep" not found.
+[Thu Jun 13 15:09:17 2013] [debug] Template "exception.html.ep" not found.
+[Thu Jun 13 15:09:17 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:09:17 2013] [debug] Rendering cached inline template.
+[Thu Jun 13 15:09:17 2013] [debug] 500 Internal Server Error (0.010189s, 98.145/s).
+[Thu Jun 13 15:09:42 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 15:09:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 15:09:44 2013] [debug] POST "/".
+[Thu Jun 13 15:09:44 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:09:44 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 15:09:44 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 15:09:52 2013] [debug] GET "/".
+[Thu Jun 13 15:09:52 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:09:52 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 15:09:52 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 15:09:52 2013] [debug] 200 OK (0.032661s, 30.618/s).
+[Thu Jun 13 15:09:54 2013] [debug] POST "/".
+[Thu Jun 13 15:09:54 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:09:54 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 15:09:54 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 15:10:28 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 15:10:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 15:10:31 2013] [debug] GET "/".
+[Thu Jun 13 15:10:31 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:10:31 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 15:10:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 15:10:31 2013] [debug] 200 OK (0.023063s, 43.359/s).
+[Thu Jun 13 15:10:34 2013] [debug] POST "/".
+[Thu Jun 13 15:10:34 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:10:34 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 15:10:34 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 15:10:34 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 15:10:34 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 15:10:43 2013] [debug] GET "/".
+[Thu Jun 13 15:10:43 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:10:43 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:10:43 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:10:43 2013] [debug] 200 OK (0.001121s, 892.061/s).
+[Thu Jun 13 15:10:49 2013] [debug] POST "/".
+[Thu Jun 13 15:10:49 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:10:49 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:10:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:10:49 2013] [debug] Template "root/post.html.ep" not found.
+[Thu Jun 13 15:10:49 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Thu Jun 13 15:12:17 2013] [debug] GET "/".
+[Thu Jun 13 15:12:17 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "index".
+[Thu Jun 13 15:12:17 2013] [debug] Rendering cached template "root/index.html.ep".
+[Thu Jun 13 15:12:17 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Jun 13 15:12:17 2013] [debug] 200 OK (0.001181s, 846.740/s).
+[Thu Jun 13 15:12:25 2013] [info] Listening at "http://*:3000".
+[Thu Jun 13 15:12:28 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Jun 13 15:12:28 2013] [debug] POST "/".
+[Thu Jun 13 15:12:28 2013] [debug] Routing to controller "Nopaste::Web::Root" and action "post".
+[Thu Jun 13 15:12:28 2013] [debug] Rendering template "root/index.html.ep".
+[Thu Jun 13 15:12:28 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Jun 13 15:12:28 2013] [debug] 200 OK (0.023393s, 42.748/s).
