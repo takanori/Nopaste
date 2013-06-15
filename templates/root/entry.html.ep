@@ -2,6 +2,18 @@
 % title $entry->title;
 
 <div id="entry">
-<h2><%= $entry->title %></h2>
-<pre><%== $code %></pre>
+	<h2><%= $entry->title %></h2>
+	<pre><%== $code %></pre>
+	
+	<div class="container">
+		<div id="header">
+			ヘッダー	
+		</div>
+		<div class="row">
+			<div class="span4" style="background-color: red;">サイドバー</div>
+			<div class="span8" style="background-color: yellow;">メイン</div>
+		</div>
+		<div id="footer"></div>
+	</div>
+
 </div>
