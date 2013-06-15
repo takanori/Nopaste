@@ -10,6 +10,6 @@
 
 <form action="/" method="post">
 	Title <input type="text" name="title" size="40">
-	Source <textarea name="body" rows="15" cols="40"></textarea>
+	Source <textarea name="body" rows="5" cols="40"></textarea>
 	<input type="submit" value="paste">
 </form>

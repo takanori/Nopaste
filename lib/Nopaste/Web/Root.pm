@@ -2,6 +2,9 @@ package Nopaste::Web::Root;
 use Mojo::Base 'Mojolicious::Controller';
 use FormValidator::Lite;
 use HTML::FillInForm::Lite;
+use Text::VimColor;
+use Encode;
+use Data::GUID::URLSafe;
 
 sub index {
 	my $self = shift;
@@ -26,6 +29,7 @@ sub post {
 	if ($validator->has_error) {
 		my @messages = $validator->get_error_messages;
 		$self->stash->{error_messages} = \@messages;
+		
 		# 入力された値を充填しながら，描画
 		my $html = $self->render('root/index', partial => 1)->to_string;
 		return $self->render(
@@ -33,8 +37,29 @@ sub post {
 			format => 'html',
 		);
 	}
+	
 	# 入力値の妥当性が保証された
-	# 続きはまた後で
+	my $entry = $self->app->db->insert('entry', {
+		id => Data::GUID->new->as_base64_urlsafe,
+		title => $self->req->param('title'),
+		body => $self->req->param('body'),
+	});
+	
+	$self->redirect_to('/paste/' . $entry->id);
+}
+
+sub entry {
+	my $self = shift;
+	my $entry = $self->app->db->single('entry', { id => $self->stash->{id} });
+	unless ($entry) {
+		return $self->render_not_found;
+	}
+	my $syntax = Text::VimColor->new(
+		filetype => 'perl',
+		string => encode_utf8($entry->body)
+	);
+	$self->stash->{code} = decode_utf8($syntax->html);
+	$self->stash->{entry} = $entry;
 }
 
 1;
