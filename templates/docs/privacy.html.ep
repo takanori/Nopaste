@@ -1,0 +1,11 @@
+% layout 'default';
+% title 'Privacy policy';
+<h2>privacy_policy</h2>
+<pre>Motem privacy policy
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+foo bar foo bar foo bar foo bar foo bar foo bar foo bar foo bar 
+
+2013-01-01 1st version</pre><hr>
+<p><%= link_to '/' => begin %>top_page<% end %></p>

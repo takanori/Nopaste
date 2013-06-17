@@ -11,6 +11,18 @@ sub index {
 	$self->render();
 }
 
+sub guest {
+	my $self = shift;
+	if ($self->ownUserId() ne "") {
+		$self->redirect_to("/top");
+		return;
+	}
+	if (defined($self->flash("message_error"))) {
+		$self->stash("message_error", $self->flash("message_error"));
+	}
+	$self->render();
+}
+
 sub post {
 	my $self = shift;
 	my $validator = FormValidator::Lite->new($self->req);
@@ -60,6 +72,16 @@ sub entry {
 	);
 	$self->stash->{code} = decode_utf8($syntax->html);
 	$self->stash->{entry} = $entry;
+}
+
+sub about {
+	my $self = shift;
+	$self->render();
+}
+
+sub privacy {
+	my $self = shift;
+	$self->render();
 }
 
 1;
